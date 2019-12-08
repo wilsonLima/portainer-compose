@@ -6,13 +6,13 @@ Estrutura do Docker Compose para o componente Portainer
 Exemplo de comando para subir o Portainer
 ------------
 
-    sudo docker-compose up
+    ./start.sh
 
 
 Exemplo de comando para destruir o Portainer
 ------------
 
-    sudo docker-compose down
+    ./stop.sh
 
 
 URL para acessar o Portainer local
