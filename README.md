@@ -20,3 +20,9 @@ URL para acessar o Portainer local
 
 http://localhost:9000
 
+
+
+License
+-------
+
+MIT License
