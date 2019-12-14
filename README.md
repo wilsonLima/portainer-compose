@@ -3,13 +3,20 @@ portainer-compose
 
 Estrutura do Docker Compose para o componente Portainer
 
-Exemplo de comando para subir o Portainer
+
+Script para criar as pastas dos volumes
+------------
+
+    ./create_dirs.sh
+
+
+Script para subir os containers
 ------------
 
     ./start.sh
 
 
-Exemplo de comando para destruir o Portainer
+Script para destruir os containers
 ------------
 
     ./stop.sh
