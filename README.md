@@ -25,4 +25,4 @@ http://localhost:9000
 License
 -------
 
-MIT License
+MIT
